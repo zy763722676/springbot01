@@ -24,6 +24,7 @@ public class UserController {
 
     @Autowired
     private UserService userService;
+    private int a;
 
 
 
